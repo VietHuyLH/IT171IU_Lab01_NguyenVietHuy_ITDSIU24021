@@ -30,7 +30,7 @@ The Setup cell installs/uses the `ISLP` package and obtains the `Auto.data`/`Aut
 
 ## Submission checklist from Section 6
 
-- [ ] Replace the Class/Group field above with the actual class/group.
+- [x] Replace the Class/Group field above with the actual class/group.
 - [ ] Run every notebook cell successfully from top to bottom.
 - [ ] Make sure all ✍️ cells are filled and all written interpretations remain in the notebook.
 - [ ] Replace `task0_colab_placeholder.png` with a real Google Colab Task 0 screenshot.
