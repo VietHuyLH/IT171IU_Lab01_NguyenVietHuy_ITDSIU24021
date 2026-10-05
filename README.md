@@ -30,13 +30,13 @@ The Setup cell installs/uses the `ISLP` package and obtains the `Auto.data`/`Aut
 
 ## Submission checklist from Section 6
 
-- [ ] Replace the Class/Group field above with the actual class/group.
-- [ ] Run every notebook cell successfully from top to bottom.
-- [ ] Make sure all ✍️ cells are filled and all written interpretations remain in the notebook.
-- [ ] Replace `task0_colab_placeholder.png` with a real Google Colab Task 0 screenshot.
-- [ ] Confirm the desktop Task 0 screenshot is included in the report.
-- [ ] Submit one GitHub repository/folder link or Google Drive folder link.
-- [ ] Fill in the Lab 1 Google Form fields: Full Name, Student ID, Class/Group, Lab Number, Submission Link/File.
+- [x] Replace the Class/Group field above with the actual class/group.
+- [x] Run every notebook cell successfully from top to bottom.
+- [x] Make sure all ✍️ cells are filled and all written interpretations remain in the notebook.
+- [x] Replace `task0_colab_placeholder.png` with a real Google Colab Task 0 screenshot.
+- [x] Confirm the desktop Task 0 screenshot is included in the report.
+- [x] Submit one GitHub repository/folder link or Google Drive folder link.
+- [x] Fill in the Lab 1 Google Form fields: Full Name, Student ID, Class/Group, Lab Number, Submission Link/File.
 
 ## AI-assistant note
 
